@@ -2,11 +2,11 @@
 
 ## Description
 
-In this app, I request news articles from newsapi.org and store those in the app with the Realm database platform. 
+In this app, I request news articles from newsapi.org and store those in the app, with the Realm database platform. 
 I practice the following topics:
 
 * Conform to MVC
-* Swift Package Manager(Realm, SDWemImage)
+* Swift Package Manager(Realm, SDWebImage)
 * Architecture: data driven approach with mock API
 * Replace mock API, with real web request
 * Parsing JSON
